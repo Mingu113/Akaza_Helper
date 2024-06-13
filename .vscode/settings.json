@@ -1,0 +1,11 @@
+{
+    "C_Cpp.default.compilerPath": "C:\\msys64\\mingw64\\bin\\gcc.exe",
+    "files.associations": {
+        "gtk.h": "c",
+        "json-glib.h": "c",
+        "curl.h": "c"
+    },
+    "C_Cpp.autocompleteAddParentheses": false,
+    "C_Cpp.default.cStandard": "gnu23",
+    "C_Cpp.inlayHints.parameterNames.enabled": true
+}
